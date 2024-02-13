@@ -4,11 +4,11 @@
 
 ## 1. Destructuring Magic: Extract Values with Ease
 Destructuring allows you to unpack values from arrays or objects in a breeze. Here's an example:
-``js
+```java script
 const person = { name: 'Pankaj’, age: 17 };
 const { name, age } = person;
 console.log(name); // Output: Pankaj
 console.log(age); // Output: 17
-``
+```
 
 
