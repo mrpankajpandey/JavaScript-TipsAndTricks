@@ -202,4 +202,4 @@ const proxy = new Proxy({}, handler);
 console.log(proxy.name); // Output: Property "name" doesn’t exist.
 ```
 ## With these 20 JavaScript tips and tricks in your toolkit, you're well-equipped to take your coding skills to the next level. Keep exploring, experimenting, and building amazing things with JavaScript!
-![LinkedIn](https://www.linkedin.com/in/pankaj-kumar-pandey-187b5a222/)
+![Link LinkedIn](https://www.linkedin.com/in/pankaj-kumar-pandey-187b5a222/)
